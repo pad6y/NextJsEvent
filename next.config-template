@@ -1,0 +1,6 @@
+module.exports = {
+  env: {
+    mongodbURL: 'Your mongodb url goes here',
+    firebaseDbURL: 'Your firebase db url goes here',
+  },
+};
